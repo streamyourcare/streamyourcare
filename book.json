@@ -1,0 +1,19 @@
+{
+    "title": "Stream Your Care",
+    "description": "A guide for mitigating isolation, neglect, and abuse with livestream technology",
+    "author": "Mundi",
+    "language": "en",
+    "root": "./",
+    "structure": {
+      "readme": "README.md",
+      "summary": "SUMMARY.md",
+      "glossary": "GLOSSARY.md"
+    },
+    "plugins": ["chapter-fold"],
+    "pluginsConfig": {
+      "theme-default": {
+        "showLevel": false
+      }
+    }
+  }
+  
