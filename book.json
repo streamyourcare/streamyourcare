@@ -1,4 +1,5 @@
 {
+    "honkit": ">= 3.0.0",
     "title": "Stream Your Care",
     "description": "A guide for mitigating isolation, neglect, and abuse with livestream technology",
     "author": "Mundi",

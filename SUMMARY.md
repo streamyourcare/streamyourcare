@@ -1,4 +1,4 @@
-# Summary
+# Table of Contents
 
 ## **Foundations**
 * [Stories & Research](introduction/README.md)
