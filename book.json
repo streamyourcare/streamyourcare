@@ -3,7 +3,6 @@
     "description": "A guide for mitigating isolation, neglect, and abuse with livestream technology",
     "author": "Mundi",
     "language": "en",
-    "root": "./",
     "structure": {
       "readme": "README.md",
       "summary": "SUMMARY.md",
