@@ -2,7 +2,7 @@
     "title": "Stream Your Care",
     "description": "A guide for mitigating isolation, neglect, and abuse with livestream technology",
     "author": "Mundi",
-    "website": "https://streamyourcare.org",
+
     "language": "en",
     "structure": {
       "readme": "README.md",
@@ -13,7 +13,7 @@
     "pluginsConfig": {
       "theme-default": {
         "showLevel": false
-      }
+      } 
     }
   }
   
