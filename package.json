@@ -1,8 +1,14 @@
 {
+  "name": "Stream Your Care",
+  "description": "A collaborative book on algorithms",
   "devDependencies": {
     "honkit": "^5.1.4"
   },
   "dependencies": {
     "chapter-fold": "^0.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/streamyourcare/streamyourcare.git"
   }
 }
