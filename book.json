@@ -5,6 +5,7 @@
     "author": "Mundi",
 
     "language": "en",
+    "directory": "./",
     "structure": {
       "readme": "README.md",
       "summary": "SUMMARY.md",
