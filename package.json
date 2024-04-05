@@ -9,7 +9,7 @@
     "serve": "honkit serve"
   },
   "dependencies": {
-    "chapter-fold": "^0.0.4"
+    "gitbook-plugin-chapter-fold": "^0.0.4"
   },
   "repository": {
     "type": "git",
