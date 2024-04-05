@@ -1,5 +1,5 @@
 {
-  "name": "Stream Your Care",
+  "name": "@streamyourcare/streamyourcare",
   "description": "A collaborative book on algorithms",
   "devDependencies": {
     "honkit": "^5.1.4"
