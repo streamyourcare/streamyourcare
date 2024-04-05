@@ -25,11 +25,11 @@ jobs:
         uses: FriesI23/honkit-build-page@v1
         with:
           working-directory: docs
-            
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
-          path: 'docs/_site'
+          name: site-artifact
+          path: docs/_site
 
   deploy:
     environment:
@@ -38,6 +38,9 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - uses: actions/download-artifact@v2
+        with:
+          name: site-artifact
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
