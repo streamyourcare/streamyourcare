@@ -1,3 +1,3 @@
 # Email Us
 
-You can reach us via email @ ezpostmgmt@gmail.com. We will have a few emails soon. 
+You can reach us via email @ team@streamyourcare.com
