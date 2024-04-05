@@ -1,14 +1,10 @@
 {
   "name": "@streamyourcare/streamyourcare",
-  "description": "A collaborative book on algorithms",
+  "description": "Improving quality of life and care with livestreams equipped with free accessible privacy and intervention features",
   "devDependencies": {
     "honkit": "^5.1.4"
   },
   "dependencies": {
     "chapter-fold": "^0.0.4"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/streamyourcare/streamyourcare.git"
-  }
 }
