@@ -4,6 +4,10 @@
   "devDependencies": {
     "honkit": "^5.1.4"
   },
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
   "dependencies": {
     "chapter-fold": "^0.0.4"
   },
