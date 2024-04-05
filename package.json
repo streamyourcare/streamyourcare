@@ -2,14 +2,15 @@
   "name": "@streamyourcare/streamyourcare",
   "description": "Sourcing monitoring tools, guides, and resources for people that receive care at home and medical facilities. Preventing loneliness and negligence while fostering a sense of purpose through inclusive digital outreach.",
   "devDependencies": {
-    "honkit": "^5.1.4"
+    "honkit": "^5.1.4",
+    "gitbook-plugin-chapter-fold": "^0.0.4"
   },
   "scripts": {
     "build": "honkit build",
     "serve": "honkit serve"
   },
   "dependencies": {
-    "gitbook-plugin-chapter-fold": "^0.0.4"
+    "chapter-fold": "^0.0.4"
   },
   "repository": {
     "type": "git",
