@@ -29,7 +29,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           path: docs/_site
-          artifact_name: site-artifact
+          name: site-artifact
 
   deploy:
     environment:
@@ -42,5 +42,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with: 
-          artifact_name: site-artifact
+          name: site-artifact
           
