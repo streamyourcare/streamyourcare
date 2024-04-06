@@ -9,7 +9,7 @@
     "summary": "SUMMARY.md",
     "glossary": "GLOSSARY.md"
   },
-  "plugins": ["toggle-chapters"],
+  "plugins": ["toggle-chapters@0.0.1"],
   "pluginsConfig": {
     "toggle-chapters": {},
     "theme-default": {
