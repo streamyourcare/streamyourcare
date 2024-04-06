@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | Hawkeye Sidekick | [iOS](https://apps.apple.com/us/app/hawkeye-sidekick/id1492668756) | Accessibility |
 | ScreenReader | [Windows](https://support.microsoft.com/en-us/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1), [Mac](https://www.apple.com/voiceover/info/guide/_1121.html), [iOS](https://support.apple.com/guide/iphone/turn-on-and-practice-voiceover-iph3e2e415f/ios), [Android](https://support.google.com/accessibility/android/answer/6007100?hl=en) | Accessibility |
-| Bing Co-Pilot | [iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) | AI Assistant |
+| Bing Co-Pilot | [iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) [Android](https://play.google.com/store/apps/details?id=com.microsoft.copilot) [Web](https://www.bing.com/copilot) | AI Assistant |
 | OBS | [Windows, Mac, Linux](https://obsproject.com/download) | Broadcasting Software & Tools |
 | Prism Live | [iOS](https://apps.apple.com/us/app/prism-live-streaming-app/id1319056339), [Android](https://play.google.com/store/apps/details?id=com.prism.live) | Broadcasting Software & Tools |
 | Streamer.Bot | [Windows](https://streamer.bot/downloads) | Broadcasting Software & Tools |

@@ -26,6 +26,11 @@
 
 * [PatientsLikeMe](https://apps.apple.com/us/app/dropbox-cloud-photo-storage/id327630330)
 
+### Assistant & Companion
+
+* [Bing Co-Pilot](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) - A large language model chatbot developed by Microsoft (released in Feb 2023). Co-Pilot can write todo lists, recommend meals, answer specific complex questions with a comprehensive approach.
+
+* [Claude](https://claude.ai/) - An advanced AI by Anthropic, adept in conversation, content creation, and ethical interactions.
 
 ### File Storage
 

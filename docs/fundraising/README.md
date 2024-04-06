@@ -7,4 +7,4 @@
 * [Ko-Fi](https://ko-fi.com/) - Allows your supporters to "buy you" a digital coffee by supporting your advocacy. 
   
 * [Patreon](https://www.patreon.com/) - Release exclusive content to subscribed community members. Offer multiple tiers of paid subscriptions.
-* [Twitch] - Subscriptions, donations, [wishlist gifts](https://www.giftster.com/), [secure food deliveries](https://treatstream.com/login)
+* [Twitch](https://twitch.tv/) - Subscriptions, donations, [wishlist gifts](https://www.giftster.com/), [secure food deliveries](https://treatstream.com/login)

@@ -3,7 +3,6 @@
 ## About Us
 * [Late Founder Story](https://roger-rethinker.medium.com/this-is-what-we-get-when-health-care-is-a-business-c3198f3c6257)
 
-
 * [Co-Founder Story](https://www.reddit.com/r/digitalbystanders/comments/1bfsx0h/elder_negligence_digital_bystander_story/)
 
 ## Mission

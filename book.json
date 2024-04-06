@@ -9,8 +9,9 @@
     "summary": "SUMMARY.md",
     "glossary": "GLOSSARY.md"
   },
-  "plugins": ["chapter-fold@0.0.4"],
+  "plugins": ["toggle-chapters"],
   "pluginsConfig": {
+    "toggle-chapters": {},
     "theme-default": {
       "showLevel": false
     }

@@ -8,7 +8,7 @@
 
 ### Assistant & Companion
 
-* [Bing Co-Pilot](https://apps.apple.com/us/app/microsoft-copilot/id6472538445)
+* [Bing Co-Pilot](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) - a chatbot developed by Microsoft (launched Feb 2023). Based on a large language model, it is able to cite sources, create poems, write songs, and much more.
 
 ### Community and Networking
 

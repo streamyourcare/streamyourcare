@@ -1,5 +1,5 @@
 # Mac (OSX) Tools 
-Mac tools which make documenting your care 
+Mac tools which make it safer and easier to livestream your care.
 
 
 ### Broadcasting Software & Tools

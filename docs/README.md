@@ -1,5 +1,13 @@
+[comment]: < (Chapter-fold fix
+Re-route late founder to 2021 mission
+Care streaming setups
+Intro hook needs better descriptor
+Fix foundations descriptions
+Mac tools description
+)>
+
 # Introduction
-Care streaming is the act of livestreaming your day to day life receiving care for a disability, illness, aging, or in long-term-care facility environments.
+Care streaming is the act of documenting your life while receiving care for a disability, illness, aging, or in long-term-care facility environments. Livestreaming ([with the proper tools](FEATURES.md)) can significantly improve your quality of life and care.
 
 | **Foundations** | |
 | --- | --- |
