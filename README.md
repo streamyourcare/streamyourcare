@@ -2,8 +2,6 @@
 
 Care streaming is the act of livestreaming your day to day life receiving care for a disability, illness, aging, or in long-term-care facility environments.
 
-We are currently conducting interviews with livestreamers for a University of Chicago user experience research study. [Sign up](https://forms.gle/84jCDNmTMQyeATMo6) or reach out to ```.mundi``` or ```.myuserid``` on [Discord](https://discord.gg/vUMkT9mxzf). **Deadline**: Please schedule your interview before **04/25/2024**
-
 | **Foundations** | |
 | --- | --- |
 | [Introduction](docs/introduction/README.md) | Introduction to the origins of StreamYourCare's mission |
