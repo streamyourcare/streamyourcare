@@ -5,6 +5,9 @@
     "honkit": "^5.1.4",
     "honkit-plugin-toggle-chapters": "^0.0.1"
   },
+  "dependencies": {
+    "honkit-plugin-toggle-chapters": "^0.0.1"
+  },
   "scripts": {
     "build": "honkit build",
     "serve": "honkit serve"

@@ -1,6 +1,8 @@
 # Introduction
 Care streaming is the act of documenting your life while receiving care for a disability, illness, aging, or in long-term-care facility environments. Livestreaming ([with the proper tools](FEATURES.md)) can significantly improve your quality of life and care.
 
+We are conducting interviews with care streamers for a user experience research study. [Sign up](https://forms.gle/84jCDNmTMQyeATMo6) or reach out to ```.mundi``` or ```.myuserid``` on [Discord](https://discord.gg/vUMkT9mxzf). **Deadline**: Please schedule your interview before **04/25/2024**
+
 | **Foundations** | |
 | --- | --- |
 | [Introduction](introduction/README.md) | Introduction to the origins of StreamYourCare's mission |
