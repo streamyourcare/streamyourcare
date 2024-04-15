@@ -24,7 +24,7 @@
 
 ### Community & Networking Tools
 
-* [PatientsLikeMe](https://apps.apple.com/us/app/dropbox-cloud-photo-storage/id327630330)
+* [PatientsLikeMe](https://www.patientslikeme.com/) - A social media app for sharing regular updates with people that share your condition.
 
 ### Assistant & Companion
 

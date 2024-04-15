@@ -30,3 +30,5 @@ These works have significantly influenced the compilation of StreamYourCare's re
 - **@AdamRethinker** - Administrator | Key Contributor
 - **@8track** - Moderator | Key Contributor
 - **@ReadyPlayerEmma** - Moderator | Key Contributor
+- **@thatonion** - Moderator | Contributor and Supporter
+- [@EddieMancuso](https://twitch.tv/EddieMancuso) - StreamYourCare Advocate | Twitch/TikTok Livestreamer

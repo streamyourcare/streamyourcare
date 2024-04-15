@@ -10,10 +10,24 @@
     "glossary": "GLOSSARY.md"
   },
   "plugins": [
-    "toggle-chapters"
+    "toggle-chapters",
+    "edit-link",
+    "octocat",
+    "sitemap"
 ],
   "pluginsConfig": {
     "toggle-chapters": {},
+    "sitemap": {
+      "url": "https://streamyourcare.com"
+    },
+    "edit-link": {
+      "base": "https://github.com/streamyourcare/streamyourcare/edit/main/docs/",
+      "label": "Edit This Page"
+
+    },
+    "octocat": {
+      "url": "https://github.com/streamyourcare/streamyourcare"
+    },
     "theme-default": {
       "showLevel": false
     }
