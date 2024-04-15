@@ -32,3 +32,4 @@ These works have significantly influenced the compilation of StreamYourCare's re
 - **@ReadyPlayerEmma** - Moderator | Key Contributor
 - **@thatonion** - Moderator | Contributor and Supporter
 - [@EddieMancuso](https://twitch.tv/EddieMancuso) - StreamYourCare Advocate | Twitch/TikTok Livestreamer
+- [Syrmor](https://www.youtube.com/channel/UCV8Qe8z3RDLiAV7E0WP7-Fg) - Content Creator | Underdog Advocate | ([Interview #1](https://youtu.be/61V3-TLee2s?si=pXJ1ScBUIW28MDYF)) ([Interview #2](https://youtu.be/Ov3oEFBXFrE?si=sj8GOHgxiF9Fpf5e))
