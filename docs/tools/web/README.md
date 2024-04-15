@@ -12,7 +12,7 @@
 
 * [Honey: Automatic Coupons & Rewards](https://chromewebstore.google.com/detail/wot-website-security-safe/bhmmomiinigofkjcapegjjndpbikblnp)
 
-* [uBlock Origin (Adblock)](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - a wide-spectrum content blocker with CPU and memory efficiency as a primary feature
+* [uBlock Origin (Adblock)](https://ublockorigin.com/) - a wide-spectrum content blocker with CPU and memory efficiency as a primary feature
 
 * [OneTab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Consolidate all of your tabs onto one page for easy access and storage.
 

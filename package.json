@@ -9,8 +9,8 @@
     "honkit-plugin-toggle-chapters": "^0.0.1"
   },
   "scripts": {
-    "build": "honkit build",
-    "serve": "honkit serve"
+    "build": "npx honkit build",
+    "serve": "npx honkit serve"
   },
   "repository": {
     "type": "git",

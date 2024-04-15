@@ -8,6 +8,8 @@ Live-streaming your care can provide monitoring, companion care, privacy and int
 
 - [Elder Justice: A blueprint for an emerging coalition, scaled society-wide - Philip C Marshall](https://medium.com/beyondguardianship/elder-justice-a-blueprint-for-an-emerging-coalition-scaled-society-wide-a8a2a2ca4fcb)
 
+- [Digital Inclusion as a Core Component of Social Inclusion - iTrauco](https://github.com/iTrauco/digital-inclusion) - A collection of studies focusing on the importance of digital inclusion.
+
 - [Digital Bystander Effect: Exploring Online Apathy in Modern Society](https://dbem.org/digital-bystander-effect/)
 
 - [I FEEL YOUR (LIVESTREAMED) PAIN: VIRTUAL BYSTANDER RECOVERY - John G Browning](https://law.baylor.edu/sites/g/files/ecbvkj1546/files/2023-09/07_browning.pdf)

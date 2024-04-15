@@ -2,7 +2,11 @@
 
 * [Center for Medicare and Medicaid Services Global Guide to Digital Health and Telemedicine](https://cms.law/en/int/expert-guides/cms-expert-guide-to-digital-health-apps-and-telemedicine)
 
+#### United Kingdom
 
+[MeAndMyMind](https://www.meandmymind.nhs.uk/getting-help/mental-health-websites/) - an NHS service providing mental health support for young people struggling with unusual experiences - like feeling paranoid or hearing voices.
+
+[NHS Service Locator (UK)](https://www.nhs.uk/nhs-services/services-near-you/) - 
 
 #### LLM Search
 These tools can assist with navigating the vast complexities of your situation to locate relevant resources and regulations.

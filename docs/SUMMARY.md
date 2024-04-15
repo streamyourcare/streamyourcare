@@ -40,6 +40,8 @@
 
 * [**Glossary**](GLOSSARY.md)
 
+* [**Credits**](CREDITS.md)
+
 * [**Contact**](contact/README.md)
     * [**Email Us**](contact/EMAILUS.md)
     * [**Social Media**](contact/SOCIAL.md)
