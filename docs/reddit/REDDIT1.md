@@ -10,7 +10,7 @@ This community will provide a collection of free tools and experiences which off
 
 Our [Sub Exploitation Prevention Guidelines](https://www.reddit.com/r/streamyourcare/comments/1b0o63g/rstreamyourcare_exploitation_prevention_guidelines/) post is also worth a read before posting. 
 
-**Who’s Invited**
+#### **Who’s Invited**
 - [PACE Advocates](https://www.medicaid.gov/medicaid/long-term-services-supports/pace/programs-all-inclusive-care-elderly-benefits/index.html)
 - Caregivers (Family/Professional)
 - Medical Professionals (Nurses, Aides, LTC/LTSS Specialists)
@@ -21,7 +21,7 @@ Our [Sub Exploitation Prevention Guidelines](https://www.reddit.com/r/streamyour
 - Tech/Software Tinkerers & Engineers
 - Researchers (Healthcare, Gerontology, Medtech)
 
-**How to Contribute**
+#### **How to Contribute**
 Anything you post advocating about this movement use: **#streamyourcare**. Invite anyone you know in these roles to r/streamyourcare. 
 
 **PACE Advocates**
@@ -60,9 +60,9 @@ Anything you post advocating about this movement use: **#streamyourcare**. Invit
 - Provide laptops and webcams to seniors in your communities transitioning into assisted living. Local ITADs and Digital Divide non-profits can assist with this. 
 - Offer programs through local universities to connect students with seniors to set up accessibility tech with them.
 
-Edit: **Post & User Flair Guidelines**
+#### **Post & User Flair Guidelines**
 
-**Post Flair**
+##### **Post Flair**
 
 - **Story**: For sharing personal and related experiences from the field(s) of your user flair. [Example 1 (Co-Founder Story)](https://www.reddit.com/r/streamyourcare/s/dpN8OcLI6p)
 - **Care Stream Guide**: A guide for implementing one or several livestream functions for an individual receiving care.
@@ -71,7 +71,7 @@ Edit: **Post & User Flair Guidelines**
 - **CS Content Guide**: For guides designated to making advocacy content and collaborative content.
 - **Care Stream Content**: For sharing advocacy material on the sub to raise awareness for how you stream your care. See how to post [[Care Stream Content](https://www.reddit.com/r/streamyourcare/s/WRg44Vfl30)] here. 
 
-**User Flair**
+##### **User Flair**
 - **Survivor**: Elder/handicap negligence and abuse survivors (*patients, family, and friends*)
 - **N/A Attorney**: Handicap and Elder Negligence attorneys 
 -  **Caregiver**: (Family/Professional)

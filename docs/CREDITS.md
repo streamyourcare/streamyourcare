@@ -26,7 +26,7 @@ These works have significantly influenced the compilation of StreamYourCare's re
 
 - [Roger "Living in a Wheelchair" Faulkner](https://www.youtube.com/watch?v=ecRPnHxVwXo) - Founder
 - [@mundi](https://discordapp.com/users/197568264413511680) - Co-Founder
-- [@robot10k](https://discordapp.com/users1062949904860856360) - Co-Founder
+- [@robot10k](https://discordapp.com/users/1062949904860856360) - Co-Founder
 - **@AdamRethinker** - Administrator | Key Contributor
 - **@8track** - Moderator | Key Contributor
 - **@ReadyPlayerEmma** - Moderator | Key Contributor
