@@ -6,7 +6,7 @@
 
 [MeAndMyMind](https://www.meandmymind.nhs.uk/getting-help/mental-health-websites/) - an NHS service providing mental health support for young people struggling with unusual experiences - like feeling paranoid or hearing voices.
 
-[NHS Service Locator (UK)](https://www.nhs.uk/nhs-services/services-near-you/) - 
+[NHS Service Locator (UK)](https://www.nhs.uk/nhs-services/services-near-you/) - The NHS provides comprehensive healthcare services, including mental health support, emergency ambulance response, prescription dispensing, children’s healthcare, and maternity care.
 
 #### LLM Search
 These tools can assist with navigating the vast complexities of your situation to locate relevant resources and regulations.

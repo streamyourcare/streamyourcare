@@ -7,6 +7,7 @@ Several tools have been found through these great resources!
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 * [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)
+* [Kaki87 - Awesome Android-x3Free](https://gist.github.com/KaKi87/d64d7185a8ccb7823d89164c709a6851)
 
 #### Articles & Publications
 These works have significantly influenced the compilation of StreamYourCare's resources.

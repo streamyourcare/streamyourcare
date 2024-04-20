@@ -32,6 +32,7 @@
     * [Fundraising](fundraising/README.md)
 
 * [Tools](tools/README.md)
+    * [StreamYourCare Setups](tools/syc/README.md)
     * [iOS](tools/ios/README.md)
     * [Android](tools/android//README.md)
     * [Windows](tools/windows/README.md)

@@ -13,6 +13,8 @@
     "toggle-chapters",
     "edit-link",
     "octocat",
+    "-lunr",
+    "copy-code-button",
     "sitemap"
 ],
   "pluginsConfig": {

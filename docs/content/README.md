@@ -2,6 +2,8 @@
 
 * [How to Become a Disability Advocate - Olivia Holler (Cripple Media)](https://cripplemedia.com/how-to-become-a-disability-advocate/)
 
+* [Netflix Cameras & Image Capture: Requirements & Best Practices](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-Image-Capture-Requirements-and-Best-Practices)
+
 
 ### Material
 
@@ -16,5 +18,7 @@
 * [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) - Find the shortest path connections between two wikipedia sites with cool visualization.
 
 * [Life Stats](https://neal.fun/life-stats/) - Learn about world stats since you were born.
+
+* [A Blind Legend](https://play.google.com/store/apps/details?id=com.dowino.ABlindLegend&hl=en&gl=us) - mobile action-adventure game without video – where ears replace eyes! Audio-based game fully accessible to visually impaired individuals.
 
 #### [Coming Soon]

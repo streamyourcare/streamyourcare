@@ -9,8 +9,10 @@
 
 * [National Disability Rights Network (NDRN)](https://www.ndrn.org/about/ndrn-member-agencies/) - NDRN is the nonprofit membership organization for the federally mandated Protection and Advocacy (P&A) Systems and Client Assistance Programs (CAP)Collectively, the P&A/CAP network is the largest provider of legally based advocacy services to people with disabilities in the United States.
 
-### 55-Years-Old and Above (For Now)
+### 50-Years-Old and Above (For Now)
 PACE programs provide comprehensive healthcare and social services to the elderly with chronic care needs, enabling them to maintain their independence and quality of life while living in their own communities.
+
+* [American Association of Retired Persons (for seniors 50 and up) Services Locator](https://local.aarpfoundation.org/) - a non-profit organization that helps people over 50, including older adults, people with physical disabilities, and family caregivers.
 
 * [USAging - Area Agency on Aging](https://www.usaging.org/) [Elder Care Locator](https://eldercare.acl.gov/Public/Index.aspx) - USAging help older adults and people with disabilities throughout the United States live with optimal health, well-being, independence and dignity in their homes and communities. 
 

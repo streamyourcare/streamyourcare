@@ -1,5 +1,6 @@
 # Introduction
 
+
 ## About Us
 * [Late Founder Story](https://roger-rethinker.medium.com/this-is-what-we-get-when-health-care-is-a-business-c3198f3c6257)
 
@@ -13,8 +14,10 @@
 
 ## **Features**
 
-* [Privacy Overlay commands
-!brb/!back/!censor](https://www.reddit.com/r/streamyourcare/comments/1ayc3my/dbis_privacy_commands/)
+* [Streamer.Bot Command Suite](/streamyourcare/docs/tools/syc/README.md) - Go here for features like privacy overlays, alert commands, voice commands, etc.
+
+
+* [Privacy Overlay commands !brb/!back/!censor](https://www.reddit.com/r/streamyourcare/comments/1ayc3my/dbis_privacy_commands/)
 Give audiences and staff the ability to offer streamers and their guardians privacy via overlays
 
 

@@ -4,9 +4,9 @@
 
 * [Chrome Remote Desktop](https://remotedesktop.google.com/) - For remote computer support from trusted-friends and family.
 
-
-
 ### Browser Extensions
+
+* [BetterTTV](https://betterttv.com/) - A browser extension for Twitch and YouTube that adds new features, emotes, and more. Easily customize your chat, make it easier to read and moderate.
 
 * [Clipboard History Pro](https://chromewebstore.google.com/detail/clipboard-history-pro-bes/ajiejmhbejpdgkkigpddefnjmgcbkenk) - increase your clipboard history to 250+
 
@@ -25,6 +25,8 @@
 ### Community & Networking Tools
 
 * [PatientsLikeMe](https://www.patientslikeme.com/) - A social media app for sharing regular updates with people that share your condition.
+
+* [Testimonial.to](https://testimonial.to/) - Platform that enables your community to share their experiences with you online and how your content or influence has impacted them.
 
 ### Assistant & Companion
 

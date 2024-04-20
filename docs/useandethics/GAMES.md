@@ -70,7 +70,8 @@ These are games which can offer isolated individuals in home and long-term care 
 
 
 **1-∞ Party/Spectator Games** 
-- [Use Your Words](https://store.steampowered.com/app/521350/Use_Your_Words/) 
+- [Use Your Words](https://store.steampowered.com/app/521350/Use_Your_Words/)
+- [Awkward 2: The Party Game of Savage Secrets](https://store.steampowered.com/app/1682690/Awkward_2_The_Party_Game_of_Savage_Secrets/)
 - [Jackbox Party Pack 1-8](https://www.jackboxgames.com/) 
 - [Skribble.io](https://skribbl.io/) 
 - [Discord Activity Games](https://support.discord.com/hc/en-us/articles/4422142836759-Activities-on-Discord)
