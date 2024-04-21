@@ -8,7 +8,7 @@
 
 ## Streamer.Bot
 - Open the Import Dialog by clicking ```Import``` on the top toolbar of Streamer.Bot
-![streamer.bot](/streamyourcare/docs/img/sbimport.png)
+![streamer.bot](/img/sbimport.png)
 - In the **Import Dialog**, paste the import string into the ```Import String``` input.
 - Click ```Import``` when you are ready to complete your import.
 - ```Enable``` all commands via ```Right-Click < Enable``` on the commands you want to use.

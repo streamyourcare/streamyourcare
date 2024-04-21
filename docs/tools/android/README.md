@@ -22,6 +22,8 @@
 
 * [PatientsLikeMe](https://play.google.com/store/apps/details?id=com.patientslikeme.android&hl=en_US&gl=US&pli=1) - A social media app for sharing regular updates with people that share your condition.
 
+* [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) - a free, secure messaging app that uses end-to-end encryption to keep your conversations private. Share text, voice messages, photos, videos, GIFs and files for free.
+
 * [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) - a free messaging and video calling app by Meta.
 
 ### AI & Companion Apps
@@ -41,6 +43,10 @@
 * [Todo Agenda](https://play.google.com/store/apps/details?id=org.andstatus.todoagenda) - Home screen widgets for your Android device. Each widget has its own settings and displays configured list of calendar events and tasks so that you can easily have a glimpse at your due, current and upcoming appointments.
 
 * [Khan Academy](https://play.google.com/store/apps/details?id=org.khanacademy.android&hl=en&gl=us) - "Learn anything for free", a vast range of free topic courses.
+
+### Privacy & Safety
+
+* [Exodus](https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy) - Exodus helps you to know which trackers and permissions are embedded in apps installed on your device.
 
 ### Wireless Network
 

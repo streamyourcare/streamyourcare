@@ -39,5 +39,7 @@
 
 * [PatientsLikeMe](https://apps.apple.com/in/app/patientslikeme/id1237832232) - A social media app for sharing regular updates with people that share your condition. ([Patients Like Me Data-Use Policies](https://blog.patientslikeme.com/health-conditions/als/what-data-do-we-sell-a-continued-discussion-about-data-scraping/))
 
+* [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669) - A free, secure messaging app that uses end-to-end encryption to keep your conversations private. Share text, voice messages, photos, videos, GIFs and files for free.
+
 ### Network
 * [AR WIFi&5G](https://apps.apple.com/us/app/ar-wifi-5g/id1556085228) - Visualize wireless signal strength with augmented reality.

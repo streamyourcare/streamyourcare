@@ -4,6 +4,8 @@
 
 * [Chrome Remote Desktop](https://remotedesktop.google.com/) - For remote computer support from trusted-friends and family.
 
+* [Privacy.Sexy](https://privacy.sexy/) - Hundreds of scripts that aims to give you control of your data on Windows and Mac OSX.
+
 ### Browser Extensions
 
 * [BetterTTV](https://betterttv.com/) - A browser extension for Twitch and YouTube that adds new features, emotes, and more. Easily customize your chat, make it easier to read and moderate.
@@ -25,6 +27,8 @@
 ### Community & Networking Tools
 
 * [PatientsLikeMe](https://www.patientslikeme.com/) - A social media app for sharing regular updates with people that share your condition.
+
+* [Signal](https://signal.org/) - a free, secure messaging app that uses end-to-end encryption to keep your conversations private. Share text, voice messages, photos, videos, GIFs and files for free.
 
 * [Testimonial.to](https://testimonial.to/) - Platform that enables your community to share their experiences with you online and how your content or influence has impacted them.
 

@@ -19,6 +19,8 @@
 
 * [Life Stats](https://neal.fun/life-stats/) - Learn about world stats since you were born.
 
+* [LearnAwesome](https://learnawesome.org/#/home) - Building humanity's universal map for learning!
+
 * [A Blind Legend](https://play.google.com/store/apps/details?id=com.dowino.ABlindLegend&hl=en&gl=us) - mobile action-adventure game without video – where ears replace eyes! Audio-based game fully accessible to visually impaired individuals.
 
 #### [Coming Soon]
