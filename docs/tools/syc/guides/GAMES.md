@@ -6,7 +6,7 @@ These are games which can offer isolated individuals in home and long-term care 
 
 
 **Map Games**  
-- [Geotastic](https://geotastic.net/),  
+- [Geotastic](https://geotastic.net/)  
 - [GeoGuessr](https://www.geoguessr.com/) 
 - [Virtual Vacation](https://virtualvacation.us/)  - [City Guesser](https://virtualvacation.us/guess)  
 - [Seterra](https://www.seterra.com/), [Hide and Seek World](https://hideandseek.world/) 

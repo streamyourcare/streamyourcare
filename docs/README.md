@@ -11,11 +11,11 @@ We are conducting interviews with care streamers for a user experience research 
 
 | **Guides** |  |
 | --- | --- |
-| [Windows Setup](WINDOWS.md) | Care stream setup guide for Windows |
-| [Mac Setup](MAC.md) | Care stream setup guide for Mac |
+| [Windows Setup](tools/syc/guides/WINDOWS.md) | Care stream setup guide for Windows |
+| [Mac Setup](docs/tools/syc/guides/MAC.md) | Care stream setup guide for Mac |
 | [Ethics Guide](useandethics/ETHICS.md) | Guidelines to facilitate ethical applications of these tools |
 | [Care Streamer Anti-Exploitation Guide](useandethics/ANTIEXPLOIT.md) | Guidelines to prevent exploitation via care streaming communities |
-| [Games for Care Streamers](useandethics/GAMES.md) | Simple and collaborative games perfect for care streamers |
+| [Games for Care Streamers](tools/syc/GAMES.md) | Simple and collaborative games perfect for care streamers |
 | [Reddit Guide](reddit/REDDIT1.md) | How to use and who can use r/streamyourcare |
 | [Post Flair Guide](reddit/FLAIR.md) | How to tag your posts on r/streamyourcare |
 | [Introduce Yourself on r/streamyourcare](reddit/INTRO2.md) | Story introduction template for r/streamyourcare |

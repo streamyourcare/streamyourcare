@@ -7,13 +7,9 @@
 
 ## **Guides**
 
-* [Windows Guide](WINDOWS.md)
-* [Mac Guide](MAC.md)
-
 * [Ethics & Use Guide](useandethics/README.md)
     * [Ethics Guide](useandethics/ETHICS.md)
     * [Care Streamer Anti-Exploitation Guide](useandethics/ANTIEXPLOIT.md)
-    * [Games for Care Streamers](useandethics/GAMES.md)
 
 * [Reddit Guides](reddit/README.md)
     * [Reddit Guide](reddit/REDDIT1.md)
@@ -21,7 +17,9 @@
     * [**Introduce Yourself on r/streamyourcare**](reddit/INTRO2.md)
 
 * [Content Guides](content/README.md)
-
+    * [Community Guides](content/community.md)
+    * [Content Creators & Family](content/creators.md)
+    * 
 
 ## **Resources**
 
@@ -32,7 +30,13 @@
     * [Fundraising](fundraising/README.md)
 
 * [Tools](tools/README.md)
-    * [StreamYourCare Setups](tools/syc/README.md)
+    * [StreamYourCare Tools](tools/syc/README.md)
+      * [Guides](tools/syc/streaming.md)
+        * [Discord Setup](tools/syc/guides/discord.md)
+        * [Configurations](tools/syc/guides/configs.md)
+        * [Streaming Tools](tools/syc/guides/streaming.md)
+        * [Windows Guide](tools/syc/guides/WINDOWS.md)
+        * [Mac Guide](tools/syc/guides/MAC.md)
     * [iOS](tools/ios/README.md)
     * [Android](tools/android//README.md)
     * [Windows](tools/windows/README.md)

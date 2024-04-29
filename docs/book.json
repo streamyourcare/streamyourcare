@@ -10,10 +10,12 @@
     "glossary": "GLOSSARY.md"
   },
   "plugins": [
-    "toggle-chapters",
     "edit-link",
+    "chapter-fold",
     "octocat",
     "-lunr",
+    "tooltips",
+    "back-to-top-button",
     "copy-code-button",
     "sitemap"
 ],
