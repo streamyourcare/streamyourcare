@@ -38,6 +38,8 @@
 
 * [Claude](https://claude.ai/) - An advanced AI by Anthropic, adept in conversation, content creation, and ethical interactions.
 
+* [Groq](https://groq.com/) - Empathetic AI assistant, connecting people and providing helpful insights.
+
 ### File Storage
 
 * [Dropbox](https://www.dropbox.com/register) - Affordable storage for your Twitch VODs online ($10/m for 2TB)

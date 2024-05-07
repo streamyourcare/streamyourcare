@@ -19,11 +19,15 @@
 * [Disability Rights Education & Defense Fund (DREDF)](https://dredf.org/contact/) - Offers legal assistance and advocacy services to individuals with disabilities facing discrimination or needing help accessing services
 * [Family Caregiver Alliance (Services by State Tool)](https://www.caregiver.org/connecting-caregivers/services-by-state/) - Connects family caregivers with public, nonprofit, and private programs and services near their loved one. 
 
-* [Medicare Part D Extra Help Program](https://www.ssa.gov/medicare/part-d-extra-help) ([see eligibility](https://www.medicarerights.org/medicare-watch/2024/02/01/people-can-get-even-more-extra-help-in-2024))
-
 * [Institute on Aging Adults with Disabilities (AWD) Home Delivered Meal Program](https://www.ioaging.org/collaborations-elder-protection/the-adults-with-disabilities-awd-home-delivered-meal-program/) - available for adults with disabilities who have no meal support and are unable to provide meals for themselves. {% tooltips title="Limited caregiver support, Inability to get to congregate meal site, Inability to grocery shop, Inability to prepare meals, Inability to consistently secure nutritious meals. At risk of health decline or institutionalization without consistent nutritious meals" %}
 [Eligibility]
 {% endtooltips %}
+
+* [IRS Credit for the Elderly or the Disabled](https://www.irs.gov/credits-deductions/individuals/credit-for-the-elderly-or-the-disabled) {% tooltips title="65 or older or retired due to permanent and total disability" %}
+[Eligibility]
+{% endtooltips %} - IRS credit for taxpayers ranging between $3,750 and $7,500.
+
+* [Medicare Part D Extra Help Program](https://www.ssa.gov/medicare/part-d-extra-help) ([see eligibility](https://www.medicarerights.org/medicare-watch/2024/02/01/people-can-get-even-more-extra-help-in-2024))
 
 * [National Disability Rights Network (NDRN)](https://www.ndrn.org/about/ndrn-member-agencies/) - NDRN is the nonprofit membership organization for the federally mandated Protection and Advocacy (P&A) Systems and Client Assistance Programs (CAP)Collectively, the P&A/CAP network is the largest provider of legally based advocacy services to people with disabilities in the United States.
 
@@ -38,7 +42,9 @@ PACE programs provide comprehensive healthcare and social services to the elderl
 
 * [Medicare PACE & LIFE Programs - State by State Locations](https://www.payingforseniorcare.com/medicare/pace-medicare/provider-list)
 
-* [National Council on Aging's Resources and Support for Older Adults Living Alone: A Comprehensive Guide](https://www.ncoa.org/adviser/medical-alert-systems/support-for-older-adults-living-alone/)
+* [National Council on Aging's (NCOA) Resources and Support for Older Adults Living Alone: A Comprehensive Guide](https://www.ncoa.org/adviser/medical-alert-systems/support-for-older-adults-living-alone/)
+
+* [NCOA BenefitsCheckUp](https://benefitscheckup.org/) - Enter your zip code, select your needs, see what organizations and services are in your area and how to apply for them.
 
 * [National Institution of Health / National Institution of Aging Affording Long Term Care Guide](https://www.nia.nih.gov/health/long-term-care/paying-long-term-care)
 
