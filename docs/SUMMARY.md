@@ -20,7 +20,7 @@
 * [Content Guides](content/README.md)
     * [Community Guides](content/community.md)
     * [Content Creators & Family](content/creators.md)
-    * 
+    * [Gaming Content Guides](content/gaming.md)
 
 ## **Resources**
 
@@ -38,6 +38,7 @@
         * [Streaming Tools](tools/syc/guides/streaming.md)
         * [Windows Guide](tools/syc/guides/WINDOWS.md)
         * [Mac Guide](tools/syc/guides/MAC.md)
+    * [Devices](tools/devices/README.md)
     * [iOS](tools/ios/README.md)
     * [Android](tools/android//README.md)
     * [Windows](tools/windows/README.md)

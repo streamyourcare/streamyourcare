@@ -8,6 +8,10 @@ Several tools have been found through these great resources!
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
 * [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)
 * [Kaki87 - Awesome Android-x3Free](https://gist.github.com/KaKi87/d64d7185a8ccb7823d89164c709a6851)
+* [MakersMakingChange](https://www.makersmakingchange.com/s/managed-content-news/assistive-technology-in-gaming-MCTUYK7YHG6NFNTHPTBE7U5J4RTM)
+* [The Best Smart Assistive Devices for People With Disabilities](https://www.nytimes.com/wirecutter/reviews/best-assistive-smart-home-technology-for-disabled/)
+* [University of Denver Colorado](https://www.ucdenver.edu/centers/center-for-inclusive-design-and-engineering/)
+* [Craig Hospital Inpatient Assistive Technology List](https://craighospital.org/inpatient/assistive-technology/computer-access)
 
 #### Articles & Publications
 These works have significantly influenced the compilation of StreamYourCare's resources.
