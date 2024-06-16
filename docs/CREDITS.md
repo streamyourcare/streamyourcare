@@ -33,6 +33,7 @@ These works have significantly influenced the compilation of StreamYourCare's re
 - [@mundi](https://discordapp.com/users/197568264413511680) - Co-Founder
 - [@robot10k](https://discordapp.com/users/1062949904860856360) - Co-Founder
 - **@AdamRethinker** - Administrator | Key Contributor
+- [@Illenialwheeler](https://twitch.tv/illenialwheeler) - Care Streamer | Contributor | Accessibility Advocate
 - **@8track** - Moderator | Key Contributor
 - **@ReadyPlayerEmma** - Moderator | Key Contributor
 - **@thatonion** - Moderator | Contributor and Supporter

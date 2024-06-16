@@ -2,11 +2,11 @@
 We recommend the following free guides and tools to equip your streams with commands, voice controls, privacy overlays, and security features.
 
 ### [Guides](guides/README.md)
-* [Discord Setup](guides/discord.md)
-* [Configurations](guides/configs.md)
-* [Streaming Tools](guides/streaming.md)
-* [Windows Guide](guides/WINDOWS.md)
-* [Mac Guide](guides/MAC.md)
+## [Discord Setup](guides/discord.md)
+## [Configurations](guides/configs.md)
+## [Streaming Tools](guides/streaming.md)
+## [Windows Guide](guides/WINDOWS.md)
+## [Mac Guide](guides/MAC.md)
 
 ### Tools
 

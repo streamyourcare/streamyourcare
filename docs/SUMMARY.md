@@ -21,6 +21,10 @@
     * [Community Guides](content/community.md)
     * [Content Creators & Family](content/creators.md)
     * [Gaming Content Guides](content/gaming.md)
+    * [Platforms](content/platforms/README.md)
+      * [TikTok](content/platforms/tiktok/README.md)
+        * [Community Guidelines](content/platforms/tiktok/communityguidelines.md)
+        * [Shadowbans](content/platforms/tiktok/shadowban.md)
 
 ## **Resources**
 

@@ -13,7 +13,7 @@
 
 ### Material
 
-* [BrainFood](https://github.com/reefactor/brainfood_reference#gems-of-wisdom) - 
+* [BrainFood](https://github.com/reefactor/brainfood_reference#gems-of-wisdom) - Curated list of mental gems and streams to fuel your cognition
 
 * [Terrible Real Estate Agent Photos](https://terriblerealestateagentphotos.com/) - A collection of "inexplicably bad property photographs."
 

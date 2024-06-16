@@ -1,5 +1,7 @@
 # Tools
 
+## [StreamYourCare Tools & Setups](syc/README.md)
+
 ### [iOS Tools](ios/README.md) | [Android Tools](android/README.md)
 
 ### [Windows Tools](windows/README.md) | [Mac (OSX)](osx/README.md) | [Web Tools](web/README.md)
