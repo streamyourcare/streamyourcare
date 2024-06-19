@@ -8,6 +8,8 @@
 [Eligibility]
 {% endtooltips %}
 
+[Low Income Home Energy Assistance Program(LIHEAP)](https://www.acf.hhs.gov/ocs/programs/liheap) - The Low Income Home Energy Assistance Program (LIHEAP) helps keep families safe and healthy through initiatives that assist families with energy costs. LIHEAP provides federally funded assistance to reduce the costs associated with home energy bills, energy crises, weatherization, and minor energy-related home repairs.
+
 #### United Kingdom
 
 [MeAndMyMind](https://www.meandmymind.nhs.uk/getting-help/mental-health-websites/) - an NHS service providing mental health support for young people struggling with unusual experiences - like feeling paranoid or hearing voices.

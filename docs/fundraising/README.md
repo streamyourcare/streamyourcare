@@ -1,5 +1,7 @@
 # Fundraising, Support, and Monetization Opportunities
 
+* [StreamYourCare Fundraising Guide](syc/README.md) - Our guide to raising funds online for care/accessiblity expenses.
+
 * [GoFundMe](https://www.gofundme.com/) - Well established fundraising platform integrated with most social media. Easy to sign up, post, and update.
 
 * [HelpHopeLive](https://helphopelive.org/)[Apply](https://helphopelive.org/get-started/apply/) - a nonprofit national organization dedicated to raising money for medical bills and expenses through crowdfunding.

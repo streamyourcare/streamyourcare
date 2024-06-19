@@ -6,6 +6,7 @@ A list of necessary sources and attributions. Thank you for your dedication to y
 Several tools have been found through these great resources!
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
+* [Reddit](https://www.reddit.com/r/povertyfinance/comments/bhfluy/list_of_resources_for_those_caring_for_aging_or/)
 * [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)
 * [Kaki87 - Awesome Android-x3Free](https://gist.github.com/KaKi87/d64d7185a8ccb7823d89164c709a6851)
 * [MakersMakingChange](https://www.makersmakingchange.com/s/managed-content-news/assistive-technology-in-gaming-MCTUYK7YHG6NFNTHPTBE7U5J4RTM)

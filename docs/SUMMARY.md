@@ -34,6 +34,7 @@
     * [Global Healthcare](healthcare/globalhealthcare/README.md)
     * [Mental Health & Crisis Prevention](healthcare/support/README.md)
     * [Fundraising](fundraising/README.md)
+      * [SYC Guide](fundraising/syc/README.md)
 
 * [Tools](tools/README.md)
     * [StreamYourCare Tools](tools/syc/README.md)
