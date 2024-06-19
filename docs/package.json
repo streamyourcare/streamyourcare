@@ -14,7 +14,8 @@
     "gitbook-plugin-hints": "^1.0.2",
     "gitbook-plugin-octocat": "^1.0.2",
     "gitbook-plugin-page-toc": "^1.1.1",
-    "gitbook-plugin-tooltips": "^0.0.1"
+    "gitbook-plugin-tooltips": "^0.0.1",
+    "honkit-plugin-youtube": "^0.0.14"
   },
   "scripts": {
     "build": "npx honkit build",

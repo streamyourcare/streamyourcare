@@ -12,6 +12,8 @@
 
 * [Research re:**Care Streaming**](research.md)
 
+* [Interviews](interviews/README.md)
+
 ## **Features**
 
 * [Streamer.Bot Command Suite](/streamyourcare/docs/tools/syc/README.md) - Go here for features like privacy overlays, alert commands, voice commands, etc.

@@ -33,9 +33,10 @@ These works have significantly influenced the compilation of StreamYourCare's re
 - [@mundi](https://discordapp.com/users/197568264413511680) - Co-Founder
 - [@robot10k](https://discordapp.com/users/1062949904860856360) - Co-Founder
 - **@AdamRethinker** - Administrator | Key Contributor
-- [@Illenialwheeler](https://twitch.tv/illenialwheeler) - Care Streamer | Contributor | Accessibility Advocate
+- [@Illenialwheeler](https://twitch.tv/illenialwheeler) [(YouTube)](https://www.youtube.com/@illenialwheeler) - Care Streamer | Contributor | Accessibility Advocate
 - **@8track** - Moderator | Key Contributor
 - **@ReadyPlayerEmma** - Moderator | Key Contributor
 - **@thatonion** - Moderator | Contributor and Supporter
+- [@GavinReadsWords](https://twitch.tv/gavinreadswords) - StreamYourCare Contributor
 - [@EddieMancuso](https://twitch.tv/EddieMancuso) - StreamYourCare Advocate | Twitch/TikTok Livestreamer
 - [Syrmor](https://www.youtube.com/channel/UCV8Qe8z3RDLiAV7E0WP7-Fg) - Content Creator | Underdog Advocate | ([Interview #1](https://youtu.be/61V3-TLee2s?si=pXJ1ScBUIW28MDYF)) ([Interview #2](https://youtu.be/Ov3oEFBXFrE?si=sj8GOHgxiF9Fpf5e))
