@@ -32,6 +32,7 @@
 * [Healthcare & Support](healthcare/README.md)
     * [US Healthcare](healthcare/ushealthcare/README.md)
     * [Global Healthcare](healthcare/globalhealthcare/README.md)
+    * [Caregiver Resources](healthcare/caregivers/README.md)
     * [Mental Health & Crisis Prevention](healthcare/support/README.md)
     * [Fundraising](fundraising/README.md)
       * [SYC Guide](fundraising/syc/README.md)

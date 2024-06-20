@@ -10,11 +10,11 @@ Care streaming is the act of livestreaming your day to day life receiving care f
 
 | **Guides** |  |
 | --- | --- |
-| [Windows Setup](docs/WINDOWS.md) | Care stream setup guide for Windows |
-| [Mac Setup](docs/MAC.md) | Care stream setup guide for Mac |
+| [Windows Setup](docs/tools/syc/guides/WINDOWS.md) | Care stream setup guide for Windows |
+| [Mac Setup](docs/tools/syc/guides/MAC.md) | Care stream setup guide for Mac |
 | [Ethics Guide](docs/useandethics/ETHICS.md) | Guidelines to facilitate ethical applications of these tools |
 | [Care Streamer Anti-Exploitation Guide](docs/useandethics/ANTIEXPLOIT.md) | Guidelines to prevent exploitation via care streaming communities |
-| [Games for Care Streamers](docs/useandethics/GAMES.md) | Simple and collaborative games perfect for care streamers |
+| [Games for Care Streamers](docs/tools/syc/GAMES.md) | Simple and collaborative games perfect for care streamers |
 | [Reddit Guide](docs/reddit/REDDIT1.md) | How to use and who can use r/streamyourcare |
 | [Post Flair Guide](docs/reddit/FLAIR.md) | How to tag your posts on r/streamyourcare |
 | [Introduce Yourself on r/streamyourcare](docs/reddit/INTRO2.md) | Story introduction template for r/streamyourcare |
