@@ -2,6 +2,7 @@
 
 ## **Foundations**
 * [Stories & Research](introduction/README.md)
+    * [Accessibility Menu]()
     * [2021 Mission Statement Blog Post from Roger Faulkner](introduction/mission2.md)
     * [Research re:**Care Streaming**](introduction/research.md)
     * [Streamer.Bot Commands](tools/syc/guides/configs.md)
@@ -26,6 +27,8 @@
       * [TikTok](content/platforms/tiktok/README.md)
         * [Community Guidelines](content/platforms/tiktok/communityguidelines.md)
         * [Shadowbans](content/platforms/tiktok/shadowban.md)
+      * [Twitch](content/platforms/twitch/README.md)
+        * [Anti-bot Follow Protection](content/platforms/twitch/management/antibot.md)
 
 ## **Resources**
 

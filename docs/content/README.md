@@ -1,5 +1,11 @@
 # Content Guides
 
+## StreamYourCare Content Guides
+* ### [TikTok](platforms/tiktok/README.md)
+* ### [Twitch](platforms/twitch/README.md)
+
+## Non-SYC Content Guides
+
 * [StreamBig.net](https://streambig.net) - "a great resource for those who are looking to get started streaming on their own, or just want to grow their stream, but don't really know where to start."
 
 * [How to Stream on Twitch - TechBoomers](https://techboomers.com/how-to-stream-on-twitch)
@@ -32,8 +38,6 @@
 * [LearnAwesome](https://learnawesome.org/#/home) - Building humanity's universal map for learning!
 
 * [A Blind Legend](https://play.google.com/store/apps/details?id=com.dowino.ABlindLegend&hl=en&gl=us) - mobile action-adventure game without video – where ears replace eyes! Audio-based game fully accessible to visually impaired individuals.
-
-#### [Custom Guides Coming Soon]
 
 ### Tools & Hardware
 
