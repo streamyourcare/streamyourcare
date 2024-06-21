@@ -2,7 +2,7 @@
 
 ## **Foundations**
 * [Stories & Research](introduction/README.md)
-    * [Accessibility Menu]()
+    * [Accessibility Menu](introduction/accessibility/README.md)
     * [2021 Mission Statement Blog Post from Roger Faulkner](introduction/mission2.md)
     * [Research re:**Care Streaming**](introduction/research.md)
     * [Streamer.Bot Commands](tools/syc/guides/configs.md)
