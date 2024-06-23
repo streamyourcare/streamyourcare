@@ -48,7 +48,8 @@ These are games which can offer isolated individuals in home and long-term care 
 - [Move With Me](https://glossbird.itch.io/fitment-movewithme)
 
 **Word Games** 
-- [Scrabble](https://playscrabble.com)/[Words With Friends](https://wordswithfriends.com/) 
+- [Scrabble](https://playscrabble.com)/[Words With Friends](https://wordswithfriends.com/)
+- [Microsoft Ultimate Word Game](https://zone.msn.com/en/msultimateword/default.htm)
 - [Wordfeud](https://wordfeud.com/) 
 - [Lexulous](https://www.lexulous.com/) 
 - [Worldle Daily](https://dordlegame.io/daily-wordle) 

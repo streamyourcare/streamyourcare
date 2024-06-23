@@ -36,6 +36,8 @@
     * [US Healthcare](healthcare/ushealthcare/README.md)
     * [Global Healthcare](healthcare/globalhealthcare/README.md)
     * [Caregiver Resources](healthcare/caregivers/README.md)
+      * [Insights](healthcare/caregivers/insights/README.md)
+      * [Cognitive Exercises](healthcare/caregivers/tools/cognitive.md)
     * [Mental Health & Crisis Prevention](healthcare/support/README.md)
     * [Fundraising](fundraising/README.md)
       * [SYC Guide](fundraising/syc/README.md)
