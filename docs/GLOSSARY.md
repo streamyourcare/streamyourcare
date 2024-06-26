@@ -8,6 +8,7 @@
 | Collaborative Care Streams | Content creators that designate a segment of their streams to play a game for or with a care streamer to expand their capabilities. |
 | Chat Bot | Allows streamers to automate their live stream's chat with moderation and new features |
 | Digital Bystander | A social media user that experiences an event in which they negate responsibility due to the technical and psychological factors. |
+| Digital Bystander Effect | Digital Bystander Effect, a phenomenon where individuals are less likely to intervene in online emergencies or harmful situations due to the presence of others, and to discuss strategies for promoting active bystander intervention in digital spaces |
 | Digital Bystander Intervention | Involves individuals witnessing an online harassment situation and taking action to prevent or stop it. |
 | Digital Bystander Intervention Strategies | Report abuse, offer support, redirect conversations, and promote positive behavior are the current DBIS techniques |
 | Faulkner Fellowship Advocate | An individual that recruits care streamers, or other advocates to set up and assist care streamers. |

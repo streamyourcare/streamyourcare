@@ -6,6 +6,8 @@
 
 * [Co-Founder Story](https://www.reddit.com/r/digitalbystanders/comments/1bfsx0h/elder_negligence_digital_bystander_story/)
 
+* [FAQ](../FAQ.md)
+
 ## Mission
 
 * [2021 Mission Statement Blog Post from Roger Faulkner](MISSION2.md)

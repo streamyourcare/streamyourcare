@@ -5,7 +5,6 @@
     * [Accessibility Menu](introduction/accessibility/README.md)
     * [2021 Mission Statement Blog Post from Roger Faulkner](introduction/mission2.md)
     * [Research re:**Care Streaming**](introduction/research.md)
-    * [Streamer.Bot Commands](tools/syc/guides/configs.md)
     * [Interviews](introduction/interviews/README.md)
 
 ## **Guides**
@@ -62,4 +61,5 @@
 * [**Contact**](contact/README.md)
     * [**Email Us**](contact/EMAILUS.md)
     * [**Social Media**](contact/SOCIAL.md)
+* [FAQ](FAQ.md)
 * [**Credits**](CREDITS.md)
