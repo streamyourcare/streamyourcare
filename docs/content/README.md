@@ -16,6 +16,8 @@
 
 * [Netflix Cameras & Image Capture: Requirements & Best Practices](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-Image-Capture-Requirements-and-Best-Practices)
 
+* [National Council of Elder Abuse Social Media Guides](https://pfs2.acl.gov/strapib/assets/Social_Media_Tips_2021_0aedeb5185.pdf)
+
 
 ### Material
 

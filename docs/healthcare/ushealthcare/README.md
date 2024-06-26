@@ -40,6 +40,8 @@ PACE programs provide comprehensive healthcare and social services to the elderl
 
 * [National PACE Association Branch Locator](https://www.npaonline.org/find-a-pace-program) - See what PACE provides for seniors in the US above 55 [here](https://www.medicare.gov/health-drug-plans/health-plans/your-coverage-options/other-medicare-health-plans/PACE)
 
+* [National Council of Elder Abuse Tools and Guides](https://ncea.acl.gov/supportsandtoolsforelderabuseprevention#gsc.tab=0)
+
 * [Medicare PACE & LIFE Programs - State by State Locations](https://www.payingforseniorcare.com/medicare/pace-medicare/provider-list)
 
 * [National Council on Aging's (NCOA) Resources and Support for Older Adults Living Alone: A Comprehensive Guide](https://www.ncoa.org/adviser/medical-alert-systems/support-for-older-adults-living-alone/)
