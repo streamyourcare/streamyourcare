@@ -1,5 +1,5 @@
 # States
-
+These are the states in which individuals are authorized to install monitoring/recording devices in their assisted living facilities. The specific details are included below and linked in the table.
 |   |   |   |   |   |
 |---|---|---|---|---|
 | ✅ **Approved** | 🟡 **Authorization Needed** | ⌛ **Proposed** | 🚫 **Dropped/Failed to Pass** | ✖️ **No Legislation Found** |
