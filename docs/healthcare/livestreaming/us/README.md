@@ -1,8 +1,23 @@
 # States
 
-|   |   |   |   |   |
+![US Monitoring Device Regulations](../../../img/monitoringUS.png)
+
+
+| ✅ | 🟡 | ⌛ | 🚫 | ✖️ |
 |---|---|---|---|---|
-| ✅ **Approved** | 🟡 **Authorization Needed** | ⌛ **Proposed** | 🚫 **Dropped/Failed to Pass** | ✖️ **No Legislation Found** |
+| {% tooltips title="Patients are approved to install cameras in their LTC facility rooms" %}
+[Approved]
+{% endtooltips %} |  {% tooltips title="Laws allow for the use of electronic monitoring devices with consent from facility and notice requirements." %}
+[Authorization Needed]
+{% endtooltips %} |  {% tooltips title="The ability to use monitoring devices in LTC is currently being lobbied for." %}
+[Proposed]
+{% endtooltips %} | {% tooltips title="An act/law attempted to pass but got dropped" %}
+[Dropped/Failed to Pass]
+{% endtooltips %} |  {% tooltips title="At present there is no legislation which advocates or authorizes using monitoring devices in LTC facilities" %}
+[No Legislation Found]
+{% endtooltips %} |
+
+
 
 
 | State | Status |
@@ -55,7 +70,7 @@
 | [Virginia](https://register.dls.virginia.gov/details.aspx?id=7163) |🟡|
 | [Washington](https://apps.leg.wa.gov/WAC/default.aspx?cite=388-97) |🟡|
 | West Virginia |✖️|
-| [Wisconsin](https://www.dhs.wisconsin.gov/memos/16-001.pdf) |🟡|
+| [Wisconsin](https://www.dhs.wisconsin.gov/memLaws allow for the use of electronic monitoring devices with consent and notice requirements.os/16-001.pdf) |🟡|
 | [Wyoming](https://health.wyo.gov/aging/hls/electronic-monitoring-of-long-term-care/) |🟡|
 
 
@@ -63,7 +78,7 @@
 
 - [California](https://healthworkforce.ucsf.edu/remote-monitoring-technology-long-term-care) - Residents have the right to use electronic monitoring with consent and notice to the family
 
-- [Connecticut ✅](https://portal.ct.gov/ltcop/resident-technology-and-camera-use-in-long-term-care) - Laws allow for the use of electronic monitoring devices with consent and notice requirements. 
+- [Connecticut ✅](https://portal.ct.gov/ltcop/resident-technology-and-camera-use-in-long-term-care) -  
 
 - [Kansas ✅](https://kslegislature.org/li_2018/b2017_18/measures/documents/summary_hb_2232_2018.pdf) (HB 2232) - Has the "Authorized Electronic Monitoring in Long-Term Care Facilities Act" which permits residents to install monitoring devices in rooms under certain conditions.
 

@@ -18,7 +18,7 @@
 - **L33TSP34K:** Using letters and special characters throughout your words is a suspicious activity which TikTok detects as trying to bypass profanity and safety filters in comments/LIVE chats. **Example: 3x4mp13**
 
 ### Inclusion vs Over-inclusion (Shadow Ban Paranoia Avoidance)
-Don't be too focused on whether or not you might be shadow banned. Take a short break from the app if you:
+Don't be too focused on whether or not you might be shadow banned. Take a short break from the app **if you**:
 - Can't follow any accounts, like any posts
 - Your videos aren't getting any engagement (<100-200 views)
 - Avoid checking or posting about getting shadowbanned on Reddit. 

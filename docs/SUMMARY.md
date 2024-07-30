@@ -22,6 +22,8 @@
     * [Community Guides](content/community.md)
     * [Content Creators & Family](content/creators.md)
     * [Gaming Content Guides](content/gaming.md)
+    * [Designs](content/designs/README.md)
+      * [True_King](content/designs/trueking/README.md)
     * [Platforms](content/platforms/README.md)
       * [TikTok](content/platforms/tiktok/README.md)
         * [Community Guidelines](content/platforms/tiktok/communityguidelines.md)
@@ -66,3 +68,4 @@
     * [**Social Media**](contact/SOCIAL.md)
 * [FAQ](FAQ.md)
 * [**Credits**](CREDITS.md)
+

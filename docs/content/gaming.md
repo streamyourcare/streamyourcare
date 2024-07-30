@@ -12,4 +12,7 @@
 
 [Shadowmont RPG Community Bot](https://rpgcb.com/) - Allow your viewers to play an idle RPG game while you stream. 
 * Login with Twitch [here](https://rpgcb.com/account/profile)
+* Scroll down to ```Settings```
+  * Toggle ```Enable Bot on Your Channel``` **On**
+  * Go to [Your Chat](https://www.twitch.tv/popout/twitch/chat) and 
 

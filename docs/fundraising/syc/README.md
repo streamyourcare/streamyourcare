@@ -5,6 +5,7 @@
 - Highlight the impact of donations
 
 - Share your journey and experiences as a streamer with a disability/caregivers
+
 - Document and share progress regularly to build trust and show the direct impact contributions 
 
 - Create compelling content that narrates your story and the challenges you face; build an emotional connection with viewers
