@@ -6,6 +6,13 @@
     * [2021 Mission Statement Blog Post from Roger Faulkner](introduction/mission2.md)
     * [Research re:**Care Streaming**](introduction/research.md)
     * [Interviews](introduction/interviews/README.md)
+      * [Brian Jones](introduction/interviews/brianjones2702.md)
+      * [Dana (Caregiver)](introduction/interviews/dana.md)
+      * [Eddie Mancuso](introduction/interviews/eddiemancuso.md)
+      * [GucciMula160](introduction/interviews/guccimula160.md)
+      * [Illenialwheeler](introduction/interviews/illenialwheeler.md)
+      * [Myah Richards](introduction/interviews/myahrichards.md)
+      * [SteamyBiscuit](introduction/interviews/steamybiscuit.md)
 
 ## **Guides**
 
