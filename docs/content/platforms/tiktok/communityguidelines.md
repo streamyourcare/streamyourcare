@@ -1,5 +1,7 @@
 ## Community Guidelines
 
+{% youtube id="Cst_JvHFD84", title="TikTok Community Guidelines Discussion Pt. 2" %}{% endyoutube %}
+
 - **Mission and Vision**: TikTok aims to **inspire creativity** and **bring joy** by unlocking human imagination through creative expression and entertainment.
     
 - **Community Guidelines**: The guidelines are designed to ensure a **safe**, **trustworthy**, and **vibrant** experience, informed by legal frameworks, best practices, and community input.

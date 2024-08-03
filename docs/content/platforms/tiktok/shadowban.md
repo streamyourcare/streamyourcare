@@ -1,5 +1,7 @@
 ## Anti-Shadowban Guide
 
+{% youtube id="PQPH6z7ZbiE", title="TikTok Shadowban Guidelines for Care Streamers Pt. 1" %}{% endyoutube %}
+
 - **Warm Your Account**: Establish yourself as a regular user on the application before you try to begin fundraising or community-building.
 
 - Who you follow and interact with will determine who TikTok shows your profile to
