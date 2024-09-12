@@ -6,7 +6,7 @@ We are conducting interviews with care streamers for a user experience research 
 
 | **Foundations**                                      | **Details**                                                                                            |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Introduction                                         |                                                                                                        |
+| Introduction | [Quick Navigation](introduction/accessibility/quicknav.MD) |
 | 2020 Mission Statement Blog Post from Roger Faulkner | [2021 Mission Statement Blog Post from Roger Faulkner](introduction/mission2.md)                        |
 | Research                                             | [Research re: Care Streaming](introduction/research.md) |
 | [Interviews](introduction/interviews/README.md) | [Dana (Caregiver)](introduction/interviews/README.md#dana), [SteamyBiscuit](introduction/interviews/README.md#steamybiscuit), [GucciMula160](introduction/interviews/README.md#guccimula), [EddieMancuso](introduction/interviews/README.md#eddiemancuso) [Brian Jones](introduction/interviews/README.md#brian-jones), [IllenialWheeler](introduction/interviews/README.md#illenialwheeler), [Myah Richards](introduction/interviews/README.md#myahrichards), [Core Insights](introduction/interviews/README.md#core-insights) |
@@ -27,7 +27,7 @@ We are conducting interviews with care streamers for a user experience research 
 |**Contact and Info**|**Details**|
 |---|---|
 |Email Us|[Social Media](contact/SOCIAL.md)|
-|Info|[FAQ](FAQ.md), [Credits](CREDITS.md)|
+|Info|[FAQ](FAQ.md), [Credits](CREDITS.md), [Changelog](contact/CHANGELOG.md)|
 
 
 

@@ -12,7 +12,6 @@ User-access can be set for the commands, we offer free vote-based command config
 ### How does care streaming benefit patients AND caregivers?
 Livestreams provide companion care, resources, and opportunities for patients which relieves staff of some of their lesser acted upon duties.
 
-
 ### What makes care streaming better than standard monitoring devices?
 Monitoring devices typically require an upfront-cost for the device, plus an additional monthly fee for the different features they offer. These costs add up in the long run, which is not even a factor for livestreaming with a phone, or computer. Additionally, the social community and being able to stay in contact with family and friends through livestream chats & clipping features.
 

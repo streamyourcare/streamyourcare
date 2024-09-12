@@ -3,6 +3,7 @@
 ## **Foundations**
 * [Stories & Research](introduction/README.md)
     * [Accessibility Menu](introduction/accessibility/README.md)
+    * [Quick Navigation](introduction/accessibility/quicknav.MD)
     * [2021 Mission Statement Blog Post from Roger Faulkner](introduction/mission2.md)
     * [Research re:**Care Streaming**](introduction/research.md)
     * [Interviews](introduction/interviews/README.md)
@@ -73,6 +74,7 @@
 * [**Contact**](contact/README.md)
     * [**Email Us**](contact/EMAILUS.md)
     * [**Social Media**](contact/SOCIAL.md)
+    * [Changelog](contact/CHANGELOG.md)
 * [FAQ](FAQ.md)
 * [**Credits**](CREDITS.md)
 
