@@ -37,11 +37,11 @@
         <a href="../../useandethics/README.md" aria-label="Community Guides">Community Guides</a>
         <a href="../../tools/syc/README.md" aria-label="Streaming Features and Tools">Streaming Tools</a>
         <a href="../../introduction/interviews/README.md" aria-label="Interviews">Interviews</a>
-        <a href="../../tools/syc/README.md" aria-label="Streaming Features and Tools">Book</a>
+        <a href="README.md" aria-label="Accessible Book">Book</a>
         <a href="../../content/designs/README.md" aria-label="Designers">Designers</a>
-        <a href="../../tools/syc/README.md" aria-label="Streaming Features and Tools">FAQ</a>
-        <a href="../../tools/syc/README.md" aria-label="Streaming Features and Tools">About Us</a>
-        <a href="GLOSSARY.md" aria-label="Glossary">Glossary</a>
+        <a href="../../FAQ.md" aria-label="Streaming Features and Tools">FAQ</a>
+        <a href="../../introduction/mission2.md" aria-label="About Us">About Us</a>
+        <a href="../../GLOSSARY.md" aria-label="Glossary">Glossary</a>
     </div>
     </body>
 </html>
