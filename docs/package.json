@@ -6,6 +6,7 @@
     "honkit-plugin-sitemap": "^1.0.2"
   },
   "dependencies": {
+    "@honkit/honkit-plugin-ga": "^1.0.1",
     "@jeff-tian/gitbook-plugin-github": "^3.0.0",
     "gitbook-plugin-back-to-top-button": "^0.1.4",
     "gitbook-plugin-chapter-fold": "^0.0.4",

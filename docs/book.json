@@ -14,6 +14,7 @@
     "chapter-fold",
     "octocat",
     "-lunr",
+    "@honkit/honkit-plugin-ga",
     "youtube",
     "tooltips",
     "back-to-top-button",
@@ -35,6 +36,10 @@
     },
     "theme-default": {
       "showLevel": false
+    },
+    "ga": {
+      "trackingID": "G-78RVRCBZ1Z",
+      "anonymizeIP": true
     }
   }
 }
