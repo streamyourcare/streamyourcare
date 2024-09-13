@@ -2,49 +2,53 @@
 
 A summary of the changes made to the StreamYourCare project.
 
+## September 2024
+- **Sep 9, 2024**
+  - Added [Quick Navigation](../introduction/accessibility/quicknav.MD)
+
 ## August 2024
 - **Aug 2, 2024**
-  - Added TikTok Guides for Visually Impaired Individuals
+  - Added TikTok Guides for Visually Impaired Individuals ([Community Guidelines](../content/platforms/tiktok/communityguidelines.md), [Anti-Shadowban Guide](../content/platforms/tiktok/shadowban.md))
 
 ## July 2024
 
 - **Jul 31, 2024**
   - Fixed main page
-  - Added interviews & insights
+  - Added [Interviews & Insights](../introduction/interviews/README.md)
 
 - **Jul 30, 2024**
   - Merge branch 'main' of https://github.com/streamyourcare/streamyourcare
-  - Added Designs Category
+  - Added [Designs](../content/designs/README.md) Category
 
 ## June 2024
 - **Jun 27, 2024**
   - Update README.md
 
 - **Jun 26, 2024**
-  - Added US Care Stream Availability, National Council of Elder Abuse Resources
+  - Added [US Care Stream Availability](../healthcare/livestreaming/us/README.md), [National Council of Elder Abuse Resources](../healthcare/ushealthcare/README.md#50-senior-healthcare-resources)
   - Merge branch 'main' of https://github.com/streamyourcare/streamyourcare
-  - Added FAQ, added descriptions to research
+  - Added [FAQ](../FAQ.md), added [descriptions to research](../introduction/research.md)
 
 - **Jun 24, 2024**
   - Update README.md
 
 - **Jun 23, 2024**
-  - Added Caregiver Insights, Caregiver Tools, Games, and Summary
+  - Added [Caregiver Insights](../healthcare/caregivers/insights/README.md), [Caregiver Tools](../healthcare/caregivers/tools/README.md), [Games](../content/gaming.md), and Summary
 
 - **Jun 21, 2024**
   - Fixed accessibility menu round 2
   - Fixed accessibility member
-  - Added Anti-Bot, Accessibility Guides, Caregiver Resources
+  - Added [Anti-Bot](../content/platforms/twitch/management/antibot.md), Accessibility Guides, Updated [Caregiver Resources](../healthcare/caregivers/README.md)
 
 - **Jun 20, 2024**
-  - Added Caregiver Resources
+  - Updated [Caregiver Resources](../healthcare/caregivers/README.md)
 
 - **Jun 19, 2024**
-  - Added Caregiver resources, Gaming Guides, SYC Fundraising Guide
-  - Added contributors and Interviews
+  - Added [Caregiver resources](../healthcare/caregivers/README.md), [Gaming Guides](../content/gaming.md), [SYC Fundraising Guide](../fundraising/README.md)
+  - Added [contributors](../CREDITS.md) and [Interviews](../introduction/interviews/README.md)
 
 - **Jun 16, 2024**
-  - Added TikTok Guides & Contributors
+  - Added [TikTok Guides](../content/platforms/tiktok/README.md) & Contributors
 
 - **Jun 15, 2024**
   - Added Descriptions & Streambig.net Guide
@@ -54,17 +58,17 @@ A summary of the changes made to the StreamYourCare project.
 
 ## May 2024
 - **May 7, 2024**
-  - Added: Resources for caregivers, US and Global Healthcare, Mental Health, and Tools.
+  - Added: [Resources for caregivers](../healthcare/caregivers/README.md), [US](../healthcare/ushealthcare/README.md) and [Global Healthcare](../healthcare/globalhealthcare/README.md), [Mental Health](../healthcare/support/README.md), and [Tools](../tools/README.md).
 
 ## April 2024
 - **Apr 29, 2024**
-  - Added: Stream Your Care Guides Section, Tools, Resources
+  - Added: [Stream Your Care Guides Section](../tools/syc/guides/README.md), Tools, Resources
 
 - **Apr 21, 2024**
   - Added: Exodus, Signal Messaging, Privacy.Tools, Privacy.Sexy, and Images.
 
 - **Apr 20, 2024**
-  - Add: Streamer.Bot config page, android/web resources, senior resources, accessibility apps and resources.
+  - Add: [Streamer.Bot config page](../tools/syc/README.md), [android](../tools/android/README.md)/[web resources](../tools/web/README.md), [senior resources](../healthcare/ushealthcare/README.md#50-years-old-and-above-for-now), [accessibility apps](../tools/README.md) and resources.
 
 - **Apr 15, 2024**
   - Update CREDITS.md
