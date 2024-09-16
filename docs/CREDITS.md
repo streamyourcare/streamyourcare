@@ -1,7 +1,6 @@
 ### Sources, Credit, and Attribution
 A list of necessary sources and attributions. Thank you for your dedication to your work, **you** made this possible.
 
-
 #### Tools
 Several tools have been found through these great resources!
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)

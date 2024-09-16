@@ -55,6 +55,7 @@
       * [SYC Guide](fundraising/syc/README.md)
 
 * [Tools](tools/README.md)
+    * [All Tools](https://github.com/streamyourcare/awesome-care-streaming#contents){:target="_blank"}
     * [StreamYourCare Tools](tools/syc/README.md)
       * [Guides](tools/syc/streaming.md)
         * [Discord Setup](tools/syc/guides/discord.md)

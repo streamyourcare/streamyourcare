@@ -22,7 +22,7 @@ We are conducting interviews with care streamers for a user experience research 
 |---|---|
 |Healthcare & Support|[US Healthcare](healthcare/ushealthcare/README.md), [Global Healthcare](healthcare/globalhealthcare/README.md), [Caregiver Resources](healthcare/caregivers/README.md), [Insights](healthcare/caregivers/insights/README.md), [Cognitive Exercises](healthcare/caregivers/tools/cognitive.md), [Livestreaming Regulations](healthcare/livestreaming/README.md)|
 |StreamYourCare Tools|[Guides](tools/syc/streaming.md), [Discord Setup](tools/syc/guides/discord.md), [Configurations](tools/syc/guides/configs.md), [Streaming Tools](tools/syc/guides/streaming.md), [Windows Guide](tools/syc/guides/WINDOWS.md), [Mac Guide](tools/syc/guides/MAC.md)|
-|Tools|[iOS](tools/ios/README.md), [Android](tools/android//README.md), [Windows](tools/windows/README.md), [Mac (OSX)](tools/osx/README.md), [Web Tools](tools/web/README.md), [Accessibility Devices](tools/devices/README.md)|
+|Tools| [All Tools](https://github.com/streamyourcare/awesome-care-streaming#contents), [iOS](tools/ios/README.md), [Android](tools/android//README.md), [Windows](tools/windows/README.md), [Mac (OSX)](tools/osx/README.md), [Web Tools](tools/web/README.md), [Accessibility Devices](tools/devices/README.md) |
 
 |**Contact and Info**|**Details**|
 |---|---|
